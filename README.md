@@ -38,6 +38,7 @@ Ce que je fais au quotidien :
 
 - [velo49.ch](https://velo49.ch) — VELO49 Sàrl : vente & location de bornes de stationnement vélos (Bikeep, Suisse)
 - [digitalcat.ch](https://digitalcat.ch) — agence web : sites sur mesure, SEO, ads
+- [ivoire-business-club.com](https://ivoire-business-club.com) — Réseau de professionnels, de mentors et de chefs d'entreprise pour accélérer la croissance en Côte d'Ivoire et à l'international.
 - [leberousse.ch](https://leberousse.ch) · [iceroll-lausanne.ch](https://iceroll-lausanne.ch)
 
 ### Écrit
