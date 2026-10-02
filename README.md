@@ -25,7 +25,6 @@ Ce que je fais au quotidien :
 | [bmad-hermes-automation](https://github.com/AlphaPerseii3000/bmad-hermes-automation) | Automatisation de la méthode BMAD dans Hermes Agent : orchestration par skills, délégation de sous-agents, tableaux de bord temps réel. |
 | [Swiss-QR-Bill-ERPNext](https://github.com/AlphaPerseii3000/Swiss-QR-Bill-ERPNext/tree/version-16) | Fork de l'app Grynn : une page QR-bill par échéance de paiement sur Sales Invoice (ERPNext v16). PR ouverte upstream. |
 | [PRIMITIVES](https://github.com/AlphaPerseii3000/PRIMITIVES) | Rhythm-sandbox quantique (Three.js + Tone.js) : la musique est le moteur physique de la simulation. |
-| [ivoire-business-club-next](https://github.com/AlphaPerseii3000/ivoire-business-club-next) | Plateforme Next.js 16 + Prisma 7 + Auth.js : annuaire d'affaires, adhésions, back-office. |
 | [google-antigravity-docs](https://github.com/AlphaPerseii3000/google-antigravity-docs) | Snapshot hors-ligne navigable de la documentation Google Antigravity. |
 | [Gemini-CLI-docs](https://github.com/AlphaPerseii3000/Gemini-CLI-docs) · [Complete-FluentCRM-Documentation](https://github.com/AlphaPerseii3000/Complete-FluentCRM-Documentation) | Documentation hors-ligne (Gemini CLI, FluentCRM). |
 
@@ -38,7 +37,6 @@ Ce que je fais au quotidien :
 ### Réalisations (clients & produits)
 
 - [velo49.ch](https://velo49.ch) — VELO49 Sàrl : vente & location de bornes de stationnement vélos (Bikeep, Suisse)
-- [ivoire-business-club.com](https://ivoire-business-club.com) — plateforme communautaire (Next.js, VPS)
 - [digitalcat.ch](https://digitalcat.ch) — agence web : sites sur mesure, SEO, ads
 - [leberousse.ch](https://leberousse.ch) · [iceroll-lausanne.ch](https://iceroll-lausanne.ch)
 
@@ -63,10 +61,9 @@ Developer & founder based in Belmont-sur-Yverdon, Switzerland. I run **[DigitalC
 - **[bmad-hermes-automation](https://github.com/AlphaPerseii3000/bmad-hermes-automation)** — automating the BMAD method inside Hermes Agent: skill-based orchestration, subagent delegation, live sprint dashboards.
 - **[Swiss-QR-Bill-ERPNext](https://github.com/AlphaPerseii3000/Swiss-QR-Bill-ERPNext/tree/version-16)** — fork adding one QR-bill page per payment-schedule installment (ERPNext v16); PR open upstream.
 - **[PRIMITIVES](https://github.com/AlphaPerseii3000/PRIMITIVES)** — a quantum rhythm-sandbox where the music is the physics engine (Three.js + Tone.js).
-- **[ivoire-business-club-next](https://github.com/AlphaPerseii3000/ivoire-business-club-next)** — Next.js 16 / Prisma 7 / Auth.js platform: business directory, memberships, back-office.
 
 **Open source** — merged PRs to [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) (plugin catalog entries), an open PR to [venku31/Swiss-QR-Bill-ERPNext](https://github.com/venku31/Swiss-QR-Bill-ERPNext), and documented bug reports with reproducible evidence.
 
-**Live work** — [velo49.ch](https://velo49.ch) · [ivoire-business-club.com](https://ivoire-business-club.com) · [digitalcat.ch](https://digitalcat.ch) · [leberousse.ch](https://leberousse.ch) · [iceroll-lausanne.ch](https://iceroll-lausanne.ch)
+**Live work** — [velo49.ch](https://velo49.ch) · [digitalcat.ch](https://digitalcat.ch) · [leberousse.ch](https://leberousse.ch) · [iceroll-lausanne.ch](https://iceroll-lausanne.ch)
 
 **Contact** — [digitalcat.ch](https://digitalcat.ch) · hello@digitalcat.ch · [LinkedIn](https://ch.linkedin.com/in/jonathan-berseth-766122128)
