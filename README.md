@@ -7,6 +7,7 @@
 ## 🇫🇷 Français
 
 Développeur & fondateur, Belmont-sur-Yverdon (VD), Suisse.
+Parcours : horlogerie → photographie → développement web. La précision est restée, le métier a changé.
 Je construis des sites et des plateformes web sur mesure, et des outils d'automatisation IA. Fondateur de **[DigitalCat](https://digitalcat.ch)** (agence web suisse) et de **[VELO49](https://velo49.ch)** (mobilité douce, partenaire Bikeep en Suisse).
 
 Ce que je fais au quotidien :
