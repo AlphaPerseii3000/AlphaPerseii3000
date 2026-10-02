@@ -8,7 +8,7 @@
 
 Développeur & fondateur, Belmont-sur-Yverdon (VD), Suisse.
 Parcours : horlogerie → photographie → développement web. La précision est restée, le métier a changé.
-Je construis des sites et des plateformes web sur mesure, et des outils d'automatisation IA. Fondateur de **[DigitalCat](https://digitalcat.ch)** (agence web suisse) et de **[VELO49](https://velo49.ch)** (mobilité douce, partenaire Bikeep en Suisse).
+Je construis des sites et des plateformes web sur mesure, et des outils d'automatisation IA. Fondateur de **[DigitalCat](https://digitalcat.ch)** (agence web suisse), de **[VAHINA](https://vahina.ch)** (vanille & e-commerce) et de **[VELO49](https://velo49.ch)** (mobilité douce, partenaire Bikeep en Suisse).
 
 Ce que je fais au quotidien :
 
@@ -39,6 +39,7 @@ Ce que je fais au quotidien :
 - [velo49.ch](https://velo49.ch) — VELO49 Sàrl : vente & location de bornes de stationnement vélos (Bikeep, Suisse)
 - [digitalcat.ch](https://digitalcat.ch) — agence web : sites sur mesure, SEO, ads
 - [ivoire-business-club.com](https://ivoire-business-club.com) — Réseau de professionnels, de mentors et de chefs d'entreprise pour accélérer la croissance en Côte d'Ivoire et à l'international.
+- [vahina.ch](https://vahina.ch) — VAHINA : vanille Bourbon & Tahiti, e-commerce (Suisse)
 - [leberousse.ch](https://leberousse.ch) · [iceroll-lausanne.ch](https://iceroll-lausanne.ch)
 
 ### Écrit
@@ -54,7 +55,7 @@ Blog DigitalCat : [Combien coûte un site internet ?](https://digitalcat.ch/comb
 
 ## 🇬🇧 English
 
-Developer & founder based in Belmont-sur-Yverdon, Switzerland. I run **[DigitalCat](https://digitalcat.ch)**, a Swiss web studio, and **[VELO49](https://velo49.ch)** (urban mobility, Bikeep partner in Switzerland). I build custom web platforms — Next.js, TypeScript, Prisma, PostgreSQL — and AI-automation tooling: Hermes Agent plugins, agent orchestration, headless video rendering.
+Developer & founder based in Belmont-sur-Yverdon, Switzerland. I run **[DigitalCat](https://digitalcat.ch)**, a Swiss web studio, **[VAHINA](https://vahina.ch)** (vanilla e-commerce) and **[VELO49](https://velo49.ch)** (urban mobility, Bikeep partner in Switzerland). I build custom web platforms — Next.js, TypeScript, Prisma, PostgreSQL — and AI-automation tooling: Hermes Agent plugins, agent orchestration, headless video rendering.
 
 **Selected public work**
 
@@ -65,6 +66,6 @@ Developer & founder based in Belmont-sur-Yverdon, Switzerland. I run **[DigitalC
 
 **Open source** — merged PRs to [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) (plugin catalog entries), an open PR to [venku31/Swiss-QR-Bill-ERPNext](https://github.com/venku31/Swiss-QR-Bill-ERPNext), and documented bug reports with reproducible evidence.
 
-**Live work** — [velo49.ch](https://velo49.ch) · [digitalcat.ch](https://digitalcat.ch) · [leberousse.ch](https://leberousse.ch) · [iceroll-lausanne.ch](https://iceroll-lausanne.ch)
+**Live work** — [velo49.ch](https://velo49.ch) · [vahina.ch](https://vahina.ch) · [digitalcat.ch](https://digitalcat.ch) · [ivoire-business-club.com](https://ivoire-business-club.com) · [leberousse.ch](https://leberousse.ch) · [iceroll-lausanne.ch](https://iceroll-lausanne.ch)
 
 **Contact** — [digitalcat.ch](https://digitalcat.ch) · hello@digitalcat.ch · [LinkedIn](https://ch.linkedin.com/in/jonathan-berseth-766122128)
